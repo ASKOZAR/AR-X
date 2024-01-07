@@ -11,7 +11,7 @@
     <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/ASKOZAR/AR-X">
     <img alt="Maintenance" src="https://img.shields.io/maintenance/no/2024">
   </p>
-  <h4>Get More chear on your post</h4>
+  <h4>Get More chear on your post !!</h4>
 </div>
 
 ##
@@ -19,7 +19,7 @@
 ### What is AR-X ?
 [**AR-X**](https://github.com/ASKOZAR/AR-X) is a script to get a facke chear on your facebook post 
 
-### Termux command ✔️
+### Termux command ?
 First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this tool :)
 ```
 $ apt update -y && apt upgrade -y
