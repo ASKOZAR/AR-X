@@ -26,9 +26,9 @@ $ apt update -y && apt upgrade -y
 $ pkg install git python-pip
 $ git clone https://github.com/ASKOZAR/AR-X
 $ cd AR-X
-$ python Ran.py
+$ python Run.py
 ```
 ```
 $ cd "$HOME/AR-X" && git pul
-$ python Ran.py
+$ python Run.py
 ```
